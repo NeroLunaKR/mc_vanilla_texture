@@ -1,0 +1,1 @@
+# mc_vanilla_texture
